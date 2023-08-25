@@ -102,7 +102,7 @@ terraform.tfvars
 # exclude everything
 data/*
 database/*
-solutions/*
+solution/*
 test-assessment/*
 
 # exception to the rule
