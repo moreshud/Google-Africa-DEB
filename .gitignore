@@ -102,7 +102,9 @@ terraform.tfvars
 # exclude everything
 data/*
 database/*
+solutions/*
+test-assessment/*
 
 # exception to the rule
-!data/.gitkeep 
-!database/.gitkeep 
+# !data/.gitkeep 
+# !database/.gitkeep 
